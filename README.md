@@ -2,7 +2,7 @@
 
 
 
-Таблица с индексом:
+Таблица police_calls с индексом (при запуске скрипта load_to_database.py, sqlite база данных создастся автоматически и данные загрузятся):
 ~~~~
 create table police_calls
 (
